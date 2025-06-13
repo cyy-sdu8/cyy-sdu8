@@ -1,4 +1,4 @@
-# Hello, I'm [Yanyun Chen] 👋
+# Hello, I'm Yanyun Chen 👋
 
 🚀 Full-Stack Developer | 💡 Open Source Enthusiast | 🤖 Reinforcement Learning Engineer | 🌱 Quadruped Robot Developer
 
