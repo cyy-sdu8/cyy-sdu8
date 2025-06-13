@@ -14,7 +14,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ## 🌟 Featured Projects
-- [RoboTamer](https://vsislab.github.io/RoboTamer/) - Full Stack Framework for Q1 Bipedal Robot Training & Deployment.
+- [RoboTamer](https://vsislab.github.io/RoboTamer/) - Full Stack Framework for Qmini Bipedal Robot Training & Deployment.
 - [SelfMimic](https://vsislab.github.io/SelfMimic/) - Learning Robust and Symmetric Locomotion Skills for Biped Robots.
 - [GALA](https://vsislab.github.io/gala/) - A Generalist Agent Learning Architecture for Versatile Quadruped Locomotion.
 - [MCLER](https://vsislab.github.io/mcler/) - Multi-critic Continual Learning with Experience Replay for Quadruped Gait Generation.
