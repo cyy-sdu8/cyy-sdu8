@@ -23,7 +23,6 @@
 
 
 ## 📖 Currently Learning
-- Machine Learning
 - Reinforcement Learning
 - Quadruped Robot
 - Humanoid Robot
