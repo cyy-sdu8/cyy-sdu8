@@ -1,6 +1,6 @@
 # Hello, I'm Yanyun Chen 👋
 
-🚀 Full-Stack Developer | 💡 Open Source Enthusiast | 🤖 Reinforcement Learning Engineer | 🌱 Quadruped Robot Developer
+🤖 Reinforcement Learning Engineer | 🌱 Quadruped Robot Developer | 🚀 Full-Stack Developer | 💡 Open Source Enthusiast
 
 ## 📫 Contact
 - Email: yy_chen@mail.sdu.edu.cn
