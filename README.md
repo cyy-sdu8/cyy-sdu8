@@ -24,6 +24,7 @@
 
 ## 📖 Currently Learning
 - Reinforcement Learning
+- Imitation Learning
 - Quadruped Robot
 - Humanoid Robot
 
